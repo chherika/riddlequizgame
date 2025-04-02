@@ -1,1 +1,2 @@
-# riddlequizgame
+# RiddleQuiz
+Quiz Game Project
